@@ -1,7 +1,9 @@
 ## CONFIGURATION 
-architecture : armhf
+Architecture : armhf
 <br>
-distro : debian
+Distro : debian
 
 ## WINE VERSION
-WINE : 7.9
+Wine : 7.9
+
+## NEED ROOT 
