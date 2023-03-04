@@ -1,5 +1,6 @@
 ## CONFIGURATION 
 architecture : armhf
+<br>
 distro : debian
 
 ## WINE VERSION
