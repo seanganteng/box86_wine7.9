@@ -11,3 +11,5 @@ Yes
 
 ## TUTORIAL 
 Youtube : coming soon
+
+Include with software rendering
