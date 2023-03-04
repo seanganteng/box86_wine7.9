@@ -7,3 +7,7 @@ Distro : debian
 Wine : 7.9
 
 ## NEED ROOT 
+Yes
+
+## TUTORIAL 
+Youtube : coming soon
