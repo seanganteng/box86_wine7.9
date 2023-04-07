@@ -15,7 +15,7 @@ echo  "YOUTUBE : https://youtube.com/@smichael_id226 " |lolcat
 
 sleep 5
 
-sudo apt install git build-essential cmake gcc-aram-linux-gnueabihf -y
+sudo apt install git build-essential cmake gcc-arm-linux-gnueabihf -y
 sudo apt install git build-essential cmake wget gcc-arm-linux-gnueabihf zenity:armhf libasound*:armhf libstdc++6:armhf mesa*:armhf -y
 
 cd 
