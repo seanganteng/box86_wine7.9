@@ -7,6 +7,11 @@ sudo apt upgrade
 
 sudo apt-get install python -y
 sudo apt-get install python-pip -y
+sudo apt-get install pytho2 -y
+sudo apt-get install python2-pip -y
+sudo apt-get install python3 -y
+sudo apt-get install python3-pip -y
+
 sudo pip install lolcat 
 
 echo  "VERSION : 1.0 " |lolcat
